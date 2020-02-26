@@ -275,7 +275,7 @@ const product = {
           option_id: "591d3506-a424-41b2-a29d-819caa340305"
         }
       ],
-      price: 109000,
+      price: 99000,
       qty: 1
     },
     {
