@@ -1,0 +1,13 @@
+@tailwind base;
+
+@tailwind components;
+
+.radio-button.disabled{
+    color: #a0aec0;
+}
+
+.radio-button.checked {
+    @apply bg-indigo-500 text-white font-bold;
+}
+
+@tailwind utilities;
